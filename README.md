@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jithinpkflash
+- 👋 Hi, I’m @jithin
 - 👀 I’m interested in android apps
 - 🌱 I’m currently learning android
 - 💞️ I’m looking to collaborate on android
